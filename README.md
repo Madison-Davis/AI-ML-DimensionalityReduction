@@ -2,6 +2,8 @@
 
 Miniature project designed to determine music genre prediction based on characteristics of the song.
 
+The Dimensionality Reduction algorithm "Quadratic Discriminant Analysis" (QDA) was utilized for this approach.
+
 # Data
 Full Dataset: https://www.kaggle.com/datasets/harish24/music-genre-classification
 
