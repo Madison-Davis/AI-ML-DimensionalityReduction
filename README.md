@@ -1,5 +1,5 @@
 # Dimensionality Reduction
-# Part 1: PCA Reduction on Aviation Pricing
+# Part 1: PCA Reduction on Country Data
 See code for implementation.  More details shown below:</br>
 Deduce groupings of countries based on geo, social, and economic features.  48 Components were examined in total, and 2 Components appeared to produce the best clusters of countries.
 Full dataset can be found on Kaggle.  ~100 countries were taken off due to partially missing data points.
